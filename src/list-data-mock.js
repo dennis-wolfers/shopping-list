@@ -1,4 +1,4 @@
-var items = [
+const list = [
   {
     item: "1/2 & 1/2",
     quantity: 1,
@@ -26,3 +26,5 @@ var items = [
 // Avos/Toms
 // Frozen Raspberries, UNsweetened
 // Milk & 1/2-N-1/2
+
+export default list;
